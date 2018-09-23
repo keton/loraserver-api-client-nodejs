@@ -1,0 +1,24 @@
+{
+  "name": "loraserver-api-client-nodejs",
+  "version": "1.0.0",
+  "description": "Typescript loraserver.io API client for NodeJS",
+  "main": "api.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keton/loraserver-api-client-nodejs.git"
+  },
+  "keywords": [
+    "loraserver",
+    "typescript",
+    "node"
+  ],
+  "author": "Michał Lower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keton/loraserver-api-client-nodejs/issues"
+  },
+  "homepage": "https://github.com/keton/loraserver-api-client-nodejs#readme"
+}
