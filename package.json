@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/keton/loraserver-api-client-nodejs/issues"
   },
-  "homepage": "https://github.com/keton/loraserver-api-client-nodejs#readme"
+  "homepage": "https://github.com/keton/loraserver-api-client-nodejs#readme",
+  "dependencies": {
+    "@types/request": "^2.47.1",
+    "request": "^2.88.0"
+  }
 }

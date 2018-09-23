@@ -10,9 +10,8 @@
  * Do not edit the class manually.
  */
 
-import localVarRequest = require('request');
-import http = require('http');
-import Promise = require('bluebird');
+import localVarRequest from 'request';
+import http from 'http';
 
 let defaultBasePath = 'https://localhost';
 
