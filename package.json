@@ -2,7 +2,7 @@
   "name": "loraserver-api-client-nodejs",
   "version": "1.0.0",
   "description": "Typescript loraserver.io API client for NodeJS",
-  "main": "api.ts",
+  "main": "loraserver-api-wrapper.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +23,8 @@
   "homepage": "https://github.com/keton/loraserver-api-client-nodejs#readme",
   "dependencies": {
     "@types/request": "^2.47.1",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "@types/node": "10.11.0",
+    "typescript": "^3.1.1"
   }
 }
